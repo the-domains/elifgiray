@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6148936
+color:
+  lightness: 0.5212766
+  brandStrength: 0.09173244
+  saturation: 0.6021277
+  rhythmicContrast: 0.819149
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Elifgiray
